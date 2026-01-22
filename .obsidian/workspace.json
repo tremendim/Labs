@@ -6,6 +6,7 @@
       {
         "id": "a2d880deeb5bb10a",
         "type": "tabs",
+        "dimension": 36.442006269592476,
         "children": [
           {
             "id": "6023bc35b230a2f1",
@@ -26,15 +27,20 @@
       {
         "id": "054180b583288231",
         "type": "tabs",
+        "dimension": 63.557993730407524,
         "children": [
           {
             "id": "226c8dce6a01d5fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Pentest/Desec/1 - Projeto Pentest Web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Projeto Pentest Web"
             }
           }
         ]
@@ -212,6 +218,9 @@
   },
   "active": "226c8dce6a01d5fd",
   "lastOpenFiles": [
+    "Pentest/Desec/1 - Projeto Pentest Web.md",
+    "Pentest/Desec",
+    "Pentest/Nova pasta",
     "README.md",
     "Welcome.md",
     "].pub",

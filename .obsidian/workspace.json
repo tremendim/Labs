@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Pentest/Desec/1 - Teste.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "1 - Teste"
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226c8dce6a01d5fd",
+  "active": "66d531f9d0238d11",
   "lastOpenFiles": [
     "Pentest/Desec/1 - Projeto Pentest Web.md",
     "Pentest/Desec/1 - Teste.md",
